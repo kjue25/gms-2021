@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(223, 16, 16);
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+ 
+h2 {
+    color: rgb(223, 16, 16);
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+h4 {
+    color: rgb(223, 16, 16);
+    font-size: 25px;
+    font-family:Bebas Neue; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color:yellow;
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: rgb(223, 16, 16);
+    font-size: 20px;
+    background-color:yellow;
+}
+
+img{
+    margin: 65px;
+}
