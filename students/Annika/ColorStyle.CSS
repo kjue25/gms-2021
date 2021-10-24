@@ -1,0 +1,26 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: black;
+    font-size: 50px;
+    font-family: cursive;
+}
+ 
+h2 {
+    color: black;
+    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color:  #faf5ff;
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: black;
+    font-size: 15px;
+    font-family: cursive;
+}
+ body {border-style: dotted;
+    border-width: 5px;
+     border-color: black;} {background-color: #faf5ff;}
+ img { border-style: dotted;
+border-width: 5px;
+ border-color: black;
+}

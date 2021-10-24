@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    border-width:20px;
+    border-color:blueviolet;
+    border-style:double
+}
+h2 {
+    color: blue;
+}
+h1 {
+    color: blue;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+a:hover {
+    background-color: yellow;
+  }

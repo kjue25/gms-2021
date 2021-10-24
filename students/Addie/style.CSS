@@ -1,0 +1,40 @@
+h1 {
+    color: pink;
+    font-size: 50px;
+    font-family: cursive;
+    text-align: center;
+    background-color: peachpuff;
+}
+     
+h2 {
+    color: white;
+    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color: black;
+}
+
+h3 {    
+    color: rgba(166, 35, 206, 0.87);
+    font-family: fantasy;
+    text-align: end;
+    background-color: powderblue;
+}
+
+h4 {
+color: rgb(241, 36, 0);
+font-family:monospace;
+font-size: 30px;
+background-color: yellow;
+}
+
+img {
+border-style: ridge;
+border-width: 17px;
+border-color:rgb(26, 197, 140);
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+body {
+background-color: indigo;
+}

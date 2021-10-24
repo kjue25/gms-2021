@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(26, 185, 53);
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(250, 143, 3);
+    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    font-size: 28px;
+    text-align: center;
+}
+
+h3 {
+   color: #1d470a94 ;
+   font-family: 'Roboto Condensed', sans-serif;
+   font-size: 20px;
+   text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #040805;
+    font-size: 17px;
+}
+ 
+body {
+     background-color:#a2fa6c;
+
+}

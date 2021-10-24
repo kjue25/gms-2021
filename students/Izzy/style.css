@@ -1,0 +1,40 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+
+h1 {
+    color: black;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+h2 {
+    color: black;
+    font-family: Oswald;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #000000;
+    font-family:Oswald;
+    font-size: 18px;
+    text-align:left;
+}
+
+a { color: #000000;
+    
+    font-size: 14px
+    text-align:left;
+    text-decoration:underline;
+}
+
+a:hover{
+
+    color: thistle;
+    text-decoration:underline;
+
+    
+
+}
+
+
