@@ -1,0 +1,47 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+
+
+body{
+   background-color: #EE4498;
+   text-align:center;
+}
+ 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    margin: 0px;
+
+}
+ 
+h2 {
+    color: white;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px
+
+}
+
+
+h3{
+    margin:25px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 20px
+    
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    font-size: 25px;
+ }
+
+ a:hover {
+    color:white;
+} 
+ a{
+    color:black;
+}

@@ -1,0 +1,30 @@
+h1 {
+    color: darkcyan;
+    font-size: 50px;
+    font-family: 'Space Mono', monospace;
+}
+h2 {
+    color: black;
+    font-family: 'Gluten', cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    
+}
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #34eb4f;
+    font-size: 12px;
+    font-family: 'Architects Daughter', cursive;
+}
+a:hover{
+    color:black;
+    font-size: 24px;
+    font-family: 'Architects Daughter', cursive;
+}
+body{
+    text-align: center;
+    border-width:5px;
+    border-color: black;
+    border-style: dashed;
+}
+
+
+

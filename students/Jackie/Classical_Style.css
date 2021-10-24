@@ -1,0 +1,23 @@
+h5 {
+    color: #207537;
+    font-family: 'Unifraktur Maguntia', cursive;
+    background-color: #82c283;
+    font-size: 100px;
+    text-align:center;
+}
+body {
+    background-color: #e8fdeb;
+}
+p {
+    color: #380909;
+    font-family: 'Unifraktur Maguntia', cursive;
+    font-size: 25px;
+    text-align: left;
+}
+h6 {
+    color: #207537;
+    font-family: 'Unifraktur Maguntia', cursive;
+    background-color: #82c283;
+    font-size: 30px;
+    text-align: left;
+}

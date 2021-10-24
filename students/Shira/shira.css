@@ -1,0 +1,47 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color:rgb(41, 36, 36);
+    font-size: 30px;
+    font-family: Oswald;
+}
+ 
+h2 {
+    color: rgb(41, 36, 36);
+    font-family: Oswald; /* For more fonts, check out: https://fonts.google.com/ */
+}
+ 
+p {
+     /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #060706;
+    font-size: 15px;
+}
+body {
+    background-color:lightpink;
+}
+a {
+    color:inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color: turquoise;
+    text decoration: none;
+}
+
+body {
+    text-align:center;
+}
+
+img {
+    border-style:groove;
+    border-width:14px;
+    border-color:lightorange;
+    
+}
+
+body {
+    border-style:groove;
+    border-width:20px;
+    border-color:black;
+}
+

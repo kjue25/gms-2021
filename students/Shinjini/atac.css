@@ -1,0 +1,24 @@
+body {
+    background-color: pink;
+    font-family: cursive;
+  }
+.minion {
+    height: 200px;
+    width: 200px;
+}
+.heh {
+    height: 200px;
+    width: 200px;
+}
+.lol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bye {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ata:link {
+    color: rgb(15, 150, 141);
+}
+#ata:visited {
+    color: rgb(15, 150, 141);
+}

@@ -1,0 +1,32 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: #c8a3fc;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+ 
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    font-size: 20px;
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #8fbaff;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+body {
+    background-color: #ffcdc9;
+    text-align: center;
+}
+
+h3 {
+    color: #c8a3fc
+}
+
+h1:hover {
+    color: #8fbaff
+}

@@ -1,0 +1,35 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+
+h1 { 
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+
+a {
+    color: #b48de3;
+    text decoration: italic;
+}
+
+body {
+    background-color: #e3ddeb;
+    font-family: Georgia;
+    text-align: center;
+}
+
+img {
+    border-style: solid;
+    border-color: black;
+}
+
+a:hover {
+    color: #7d68a3;
+}
+

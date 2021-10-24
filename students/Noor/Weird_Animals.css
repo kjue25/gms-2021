@@ -1,0 +1,57 @@
+body {
+    background-image: linear-gradient(to right, #466D1D, #0492C2, #F25278, #222222);
+    text-align: center;
+
+}
+
+p  {
+  font-family: 'Sofia', cursive;
+
+
+
+}
+
+a {
+
+  font-family: 'Sofia', cursive;
+}
+
+h1 {
+
+  font-family: 'Sofia', cursive;
+
+}
+
+h3 {
+
+  font-family: 'Sofia', cursive;
+  
+}
+
+h5 {
+
+  font-family: 'Sofia', cursive;
+  
+}
+
+a:hover {
+    
+  text-decoration: underline;
+  color: pink;
+}
+
+a {
+
+  color: black;
+
+}
+
+img {
+
+border-style: solid ;
+border-width: 12px ;
+border-color: green ;
+
+padding: 6px ;
+
+}

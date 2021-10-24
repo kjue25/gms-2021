@@ -1,0 +1,208 @@
+.George {
+    width: 300px;
+    border: 0pt;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    font-family: cursive;
+    margin-top: 80pt;
+    margin-left: 175pt;
+  }
+  body {
+      font-family: cursive;
+  }
+  body {
+    background-image: url('Yellowed parchment paper.png');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+/*.A:before {
+    content: '\a';
+    white-space: ;
+    
+  }*/
+.A {
+    position: absolute;
+    top: 735px;
+    left: 10;
+}
+.B {
+    position: absolute;
+    top: 810px;
+    left: 40pt;
+}
+.BC {
+    position: absolute;
+    top: 1420pt;
+    margin-left: 50pc;
+    left: -47pc;
+}
+.Abraham {
+    width: 300px;
+    border: 0pt;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    font-family: cursive;
+    position: absolute;
+    top: 834px;
+    left: 190pt;
+}
+.Bill3 {
+    width: 300px;
+    border: 0pt;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    font-family: cursive;
+    position: absolute;
+    top: 1970px;
+    left: 190pt;
+}
+.F {
+    position: absolute;
+    top: 1120px;
+    left: 10;
+}
+.C
+{
+    width: 300px;
+    border: 0pt;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    font-family: cursive;
+    position: absolute;
+    top: 1125px;
+    left: -12pt;
+}
+.Franklin {
+    width: 300px;
+    border: 0pt;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    font-family: cursive;
+    position: absolute;
+    top: 1165px;
+    left: 265pt;
+}
+.O {
+    position: absolute;
+    top: 1485px;
+    left: 10;
+}
+.BO {
+    position: absolute;
+    top: 1560px;
+    left: 40pt;
+}
+.Barack {
+    width: 300px;
+    border: 0pt;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    font-family: cursive;
+    position: absolute;
+    top: 1645px;
+    left: 190pt;
+}
+.G1 {
+    position: absolute;
+    left: 40pt;  
+    top: 425px;
+}
+
+.G {
+    position: absolute;
+    top: 350px;
+    left: 10;
+}
+.title {
+    font-size: 85px;
+    padding-left: 20px;
+}
+.Bill{
+    position: absolute;
+    top: 1970px;
+    left: 40pt;
+}
+#list {
+    float: right !important;
+    margin-right: 25pt;
+    position: fixed;
+    width: 100%;
+    padding-left: 800pt;
+
+    /*text-align: right;*/
+}
+#George2:link {
+    color: rgb(15, 150, 141);
+}
+
+#George2:visited {
+    color: rgb(15, 150, 141);
+}
+#George2:hover {
+    color: salmon;
+}
+#Abraham2:link {
+    color: rgb(15, 150, 141);
+}
+
+#Abraham2:visited {
+    color: rgb(15, 150, 141);
+}
+#Abraham2:hover {
+    color: salmon;
+}
+
+#Franklin2:link {
+    color: rgb(15, 150, 141);
+}
+
+#Franklin2:visited {
+    color: rgb(15, 150, 141);
+}
+#Franklin2:hover {
+    color: salmon;
+}
+
+#Barack2:link {
+    color: rgb(15, 150, 141);
+}
+
+#Barack2:visited {
+    color: rgb(15, 150, 141);
+}
+#Barack2:hover {
+    color: salmon;
+}
+#Bill2:link {
+    color: rgb(15, 150, 141);
+}
+#Bill2:visited {
+    color: rgb(15, 150, 141);
+}
+#Bill2:hover {
+    color: salmon;
+}
+#author:link {
+    color: rgb(15, 150, 141);
+}
+#author:visited {
+    color: rgb(15, 150, 141);
+}
+#author:hover {
+    color: salmon;
+}
+#author {
+    font-size: x-large;
+}
+/*.presidents{
+
+}*/

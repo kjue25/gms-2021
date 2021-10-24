@@ -1,0 +1,25 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: rgb(143, 201, 116);
+    font-size: 80px;
+    font-family: 'Fleur De Leah', cursive;
+}
+ 
+h2 {
+    color: rgb(187, 214, 151);
+    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color: rgb(249, 255, 230);
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #ebab34;
+    font-size: 12px;
+}
+
+h3 {
+    color: rgb(90, 116, 78);
+    font-size: 30px;
+    font-family: 'Cookie', cursive;
+
+}

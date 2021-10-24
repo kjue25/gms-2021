@@ -1,0 +1,49 @@
+p {
+    color:linen; 
+    font-family: Georgia, 'Times New Roman', Times, serif 
+}
+
+h1 { 
+color: mistyrose;
+font-size: 60px;
+margin-left: 492px;
+margin-right: 492px;
+font-family: cursive;
+border: mistyrose;
+border-style: solid; 
+border-spacing: 20px;
+}
+
+h2 { 
+color: mistyrose;
+font-size: 40px;
+}
+
+p { 
+color: mistyrose;
+font-size: larger;
+
+
+}
+
+img {
+margin: 25px;
+}
+
+body { background-color: rosybrown
+
+}
+
+a { 
+color: mistyrose;  
+text-decoration: underline;
+font-size: larger;
+
+}
+
+a:hover { 
+
+color: rgb(121, 76, 94);   
+text-decoration: underline;
+
+}

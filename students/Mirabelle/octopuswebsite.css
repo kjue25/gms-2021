@@ -1,0 +1,26 @@
+body {
+
+    text-align: center; 
+color: black;
+border-style: dashed;
+font-family: 'Andada Pro', serif;
+background-color: red; /* For browsers that do not support gradients */
+background-image: linear-gradient(to bottom right, blue, purple);
+
+}
+h1 { 
+    font-family: 'Andada Pro', serif;
+color: black;
+}
+
+
+{
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, blue, purple);
+}
+  
+
+
+
+
+

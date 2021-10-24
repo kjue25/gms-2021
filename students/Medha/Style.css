@@ -1,0 +1,41 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: rgb(0, 195, 255);
+    font-size: 50px;
+    font-family:cursive;
+    text-align: center
+}
+ 
+h2 {
+    color: white;
+    font-family:cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color: white;
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #3a6f7c;
+    font-size: 18px;
+    font-family:fantasy;
+}
+
+h6 {
+    color:rgb(223, 177, 233);
+    font-family: cursive;
+    font-size: 22px;
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a:hover {
+    color:rgb(204, 175, 223)
+}
+
+body {
+    background-color: rgb(189, 235, 241)
+}

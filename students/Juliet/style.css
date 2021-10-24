@@ -1,0 +1,25 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: moms_typewriter
+}
+ 
+h2 {
+    color: rgb(45, 108, 145);
+    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+
+}
+ 
+h1 {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: black;
+    font-size: 100px;
+}
+body {
+    background-color: orange;
+    text-align: center;
+}
+a{ color: rgb(209, 81, 188);
+text-decoration:underline;
+}

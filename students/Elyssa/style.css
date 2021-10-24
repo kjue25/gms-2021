@@ -1,0 +1,55 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color:black;
+    font-size: 50px;
+    font-family: garamond;
+}
+ 
+h3 {
+    color:black;
+    font-family: garamond; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color: white(0, 0, 0);
+}
+
+h6 {
+    color:black;
+    font-family: sans-serif; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color:black   (0, 0, 0);
+}
+
+
+ 
+body {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: black;
+    font-size: 25px;
+}
+
+
+
+body{
+    background-color: white(154, 214, 216)
+}
+
+a:hover{
+    color: lightcoral;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    border-width: 10px;
+    border-color: black(237, 100, 100);
+    border-style: solid;
+}
+
+body {
+    background-color: lightblue;
+
+

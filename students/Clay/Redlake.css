@@ -1,0 +1,35 @@
+h1{
+    color: #731710;
+    font-family: fantasy; 
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    color: #731710;
+    font-family: fantasy;
+    text-decoration: underline;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    border-style: ridge;
+    border-width: 10px;
+    border-color: #6e2d2d;
+}
+
+img{
+   margin: 100px;
+    width: 1000px;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: #6e2d2d;
+}
+
+a href="https://www.artbreeder.com/"{ 
+    text-align: center;
+    color: #6e0707:
+}

@@ -1,0 +1,44 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: palevioletred ;
+    font-size: 50px;
+    font-family: cursive;
+    text-align: center;
+}
+
+
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #FE7F9C;
+    font-size: 25 px;
+    font-family: initial
+}
+
+h3 {
+    color:#FC94AF;
+    font-size: 30px;
+    font-family: initial; 
+}
+
+a {
+    color: #F64A8A; 
+    font-size: 25px; 
+    font-family: cursive;
+} 
+
+img {
+    border-style: ridge;
+    border-width: medium;
+    border-color: #F64A8A;
+}
+
+a:hover { 
+    color: #b44772
+}
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: #fcd303;
+    font-size: 100;
+    font-family: 'Montserrat', sans-serif;;
+}
+ 
+h3 {
+    color: white;
+    font-family:'Montserrat', sans-serif;; /* For more fonts, check out: https://fonts.google.com/ */
+    
+}
+ 
+p {
+    color:white;
+    font-size: 20;
+    font-family: 'Montserrat', sans-serif;;
+}
+
+body {
+    text-align:center;
+    background-color:#c89beb;
+    font-family: 'Montserrat', sans-serif;;
+    margin:10px;
+}
+
+
+
+img {
+    border-width: 10;
+    border-color: #fcd303;
+    border-style: solid;
+    margin:10px;
+}
+
+h2 {
+    color: #f76565;
+}
+
+#unit {
+    color: #f76565;
+    font-size: 20;
+}
+
+
+h4 {
+    text-align:left;
+    color: white;
+    font-size: 20;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:white;
+}
+
+a:hover{
+    color:#f76565;
+    text-decoration:underline;
+}
+
+#top h4{
+    background-color:#fcd303;
+}
+

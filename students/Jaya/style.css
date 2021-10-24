@@ -1,0 +1,38 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color:pink;
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    text-align: center 
+}
+ 
+h2 {
+    color:black;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', serif;
+    text-align: center
+}
+
+h3 {
+    color: black;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: black;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    text-align: center
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 20px; 
+    border-style: solid;
+    border-color: white
+}
+body {
+    background-color: #ffffe0
+}

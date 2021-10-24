@@ -1,0 +1,59 @@
+h1 {
+    color: purple;
+    font-size: 65px;
+    font-family: cursive;
+
+}
+
+body { 
+    background-color: plum;
+
+}
+
+#link {
+    color: purple;
+    font-family:cursive;
+ 
+    
+}
+#holiday {
+    color:purple;
+    font-family: cursive;
+    margin-left:900px;
+
+}
+
+#bestepisodes {
+    color: purple;
+    font-family: cursive;
+}
+
+ol {
+    
+    font-family: cursive;
+    color:purple;
+}
+
+a {
+    color:inherit;
+    font-family: cursive;
+    font-size: 32px;
+
+}
+
+img {
+    margin: 40px;
+    border-style: dashed;
+}
+
+a:hover {
+color: purple;
+text-decoration: underline;
+}
+
+a {
+    text-align: center;
+}
+
+
+

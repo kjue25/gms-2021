@@ -1,0 +1,60 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: #522143;
+    font-size: 50px;
+    font-family: cursive;
+}
+ 
+h5 {
+    color: #522143;
+    font-family: serif; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color: #f7edf4;
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #522143;
+    font-size: 19px;
+    font-family: serif;
+}
+
+body {
+    background-color: #f7edf4;
+}
+
+p:hover {
+    font-size: 20;
+    color: #9c608a;
+}
+
+h4 {
+    color: #522143;
+}
+
+h4:hover {
+    color: #9c608a;
+    font-size: 17
+}
+
+img:hover {
+    width:370;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 75;
+}
+
+h1:hover {
+    font-size: 76;
+    color: #9c608a;
+}
+
+img {
+    border-style: solid;
+    border-width: 23px;
+    border-color: #e0c1ce;
+}

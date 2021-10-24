@@ -1,0 +1,44 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+body {
+    background-color: black;
+}
+h1 {
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+h4 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color: black;
+}
+
+h6{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+a {
+color: inherit;
+text-decoration: none;
+}
+
+a:hover{
+    color:powderblue;
+}
+
+img{
+    border-style:solid;
+    border-width: 2px;
+    border-color: #000000;
+    margin: 30px;
+}
+

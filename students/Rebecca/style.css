@@ -1,0 +1,36 @@
+h1 {
+    color: #af97d1;
+    font-size: 50px;
+    font-family: 'Space Mono', monospace;
+}
+ h3 {
+    color: #504d94;
+    font-family: 'Space Mono', monospace; 
+
+}
+ p {
+    
+    color: #384370;
+    font-size: 13px;
+    font-family: 'Space Mono', monospace; 
+}
+h4 {
+    color: #504d94;
+    font-family: 'Space Mono', monospace;
+}
+body {
+    border-color: #b5b8ff;
+    border-width: 16px;
+    border-style: double;
+    padding: 30px;
+    background-color:#fdffed;
+}
+a:hover{
+  color:#b87e54;
+  text-decoration: underline ;
+}
+a{
+    text-decoration:none ;
+    color: #384370;
+    font-family: 'space mono', monospace ;
+}

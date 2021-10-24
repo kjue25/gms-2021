@@ -1,0 +1,22 @@
+body {
+    background-color: #f9edff;
+    text-align: center;
+}
+
+h1 {
+   text-align: center;
+}
+
+
+p  {
+    text-align: center;
+}
+
+h3  {
+    text-align: center;
+}
+
+a:hover {
+    color: #c6f202;
+}
+

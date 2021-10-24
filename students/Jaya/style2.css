@@ -1,0 +1,29 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: white;
+    font-size: 100px;
+    font-family:'Playfair Display', serif;
+    text-align: center
+}
+ 
+h2 {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    text-align: center
+
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #34eb4f;
+    font-size: 12px;
+}
+body {
+    background-color: pink;
+}
+
+img {
+    border-width: 15px; 
+    border-style: solid;
+    padding:
+}

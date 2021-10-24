@@ -1,0 +1,20 @@
+a{text-decoration: underline;}
+body {
+    background-color:lavender;
+}
+#babygiraffe:hover {
+    content:url("Giraffa.jpg");
+
+
+}
+  #babypengiun:hover {
+    content:url("penguin.jpg")
+}
+  #babypanda:hover {
+    content:url("panda.jpg")
+
+}
+
+h1{
+ font-family: 'Courier New', Courier, monospace;
+}

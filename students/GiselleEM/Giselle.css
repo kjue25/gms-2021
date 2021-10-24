@@ -1,0 +1,24 @@
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: sans-serif;    
+}
+    
+
+ 
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: sans-serif; /* For more fonts, check out: https://fonts.google.com/ */
+;
+}
+
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: #ffffff;
+    font-size: 12px;
+  
+}
+body{
+ background-color: rgb(159, 223, 252);   
+}
