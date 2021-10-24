@@ -18,14 +18,18 @@ p {
     font-family:Raleway;
 }
 
+
 a {
     color: #85c27e;
     font-size: 24px;
     font-family:Raleway;
+    }
+
 }
 
-h3 {
-    color: #a2bf9f;
-    font-size: 24px;
-    font-family:Raleway;
+
+}
+
+img {
+    margin: 200;
 }

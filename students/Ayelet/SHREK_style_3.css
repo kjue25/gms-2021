@@ -1,31 +1,32 @@
 h1 {
-    color:white;
+    margin: 0;
     font-size: 177px;
     font-family: Open Sans;
-    background-color:#85c27e;
-    margin: 0;
+    color: white;
+    background-color:#bd150f
+
 }
  
 h2 {
-    color: #3a784a;
+    color: #e30e07;
     font-family: Scheherazade New;
     font-size: 62px;
 }
  
 p {
-    color: #5cab54;
+    color: #cc423d;
     font-size: 24px;
     font-family:Raleway;
 }
 
 a {
-    color: #85c27e;
+    color: #cf433e;
     font-size: 24px;
     font-family:Raleway;
 }
 
 h3 {
-    color: #a2bf9f;
+    color: #ed5651;
     font-size: 24px;
     font-family:Raleway;
 }
