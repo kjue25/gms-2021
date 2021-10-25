@@ -58,6 +58,7 @@ button{
   background-color: #b3b3ff;
   font-family: fantasy;
  text-align: center;
+ font-size: 8mm;
 }
 button:hover{
   transition-duration: 0.4s;
