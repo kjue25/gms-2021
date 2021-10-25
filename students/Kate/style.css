@@ -1,0 +1,16 @@
+#dog:hover {
+     content:url("Screen Shot 2021-10-06 at 1.07.25 PM.png");
+}
+
+#plant:hover {
+ content:url("Screen Shot 2021-10-06 at 1.10.26 PM.png");
+}
+
+#human:hover {
+    content:url("Screen Shot 2021-10-06 at 1.08.49 PM.png");
+}
+#human2:hover {
+    content:url("Screen Shot 2021-10-06 at 1.08.14 PM.png")
+}
+
+h1{font-family: sans-serif;}
