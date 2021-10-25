@@ -3,17 +3,40 @@
 h1 {
     color: blue;
     font-size: 50px;
-    font-family: sans-serif;
+    font-family: 'Gemunu Libre', sans-serif;
+    border-width: 12px;
+    border-color: darkblue;
+    border-style:dotted
 }
  
 h2 {
     color: rgba(179, 255, 0, 0.664);
-    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    font-family: 'Gemunu Libre', sans-serif;
     background-color: black;
 }
  
 p {
     /* Search "hex color picker" in Google to pick a color by hex value */
-    color: #25a338;
+    color: #0400ff;
     font-size: 12px;
 }
+
+body {
+   background-color: rgb(0, 0, 0); 
+   text-align: center;
+   font-family: 'Gemunu Libre', sans-serif;
+
+}
+
+h5 {
+    color:rgb(255, 255, 255); 
+}
+
+p {
+    font-size:20px;
+    color:white; 
+}
+
+h4 {
+    color:white;
+    font-size: 25px;
