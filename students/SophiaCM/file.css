@@ -1,17 +1,44 @@
 h1 {
-    color: #ffea63;
+    color: #ffade0;
     font-size: 50px;
-    font-family: raleway;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
  
 h2 {
-    color: #ffea63;
-    font-family: raleway; 
-    background-color: #424242;
+    color: #ffade0;
+    font-family: 'Montserrat', sans-serif;  
 }
+   
+body {
+    background-color: #ffffff;
+    border-style: black;
+
+}
+
+
  
 p {
-    color: #ffea63;
-    font-size: 12px;
-    font-family: raleway;
+    color: #ffade0;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
 }
+
+img {
+border-style:groove;
+border-width: 5px;
+border-color:black;
+
+      
+      
+
+}
+
+style
+  .img-container {
+        text-align: center;
+        display: block;
+      }
+
