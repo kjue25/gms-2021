@@ -1,0 +1,32 @@
+
+/* This is a comment! It doesn't affect your code but can be used for descriptions */
+
+
+ 
+h2 {
+    color:white;
+    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color: rgb(128, 123, 123);
+}
+ 
+p {
+    /* Search "hex color picker" in Google to pick a color by hex value */
+    color: Navy ;
+    font-size: 15px;
+}
+h1 {
+    color:White;
+    font-family: Yanone Kaffeesatz;
+    font-size: 50px;
+    background-color:rgb(187, 182, 182)
+}
+
+Header {
+
+        color:grey;
+        font-family: Yanone Kaffeesatz;
+        font-size: 25px;
+
+h6     { 
+        color: black;
+        font-family:
