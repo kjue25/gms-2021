@@ -2,22 +2,29 @@
 h1 {
     color: rgb(0, 0, 0);
     font-size: 50px;
-    font-family: cursive;
+    font-family:'Bebas Neue', cursive;
     text-align: center;
 }
  
 h2 {
     color: rgb(0, 0, 0);
-    font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    font-family:'Bebas Neue', cursive; /* For more fonts, check out: https://fonts.google.com/ */
     background-color: rgb(255, 255, 255);
-    text-align: center;
+    text-align: left;
 }
 
-img {
-    text-align: center; 
- 
+h3 {
+    color: rgb(0, 0, 0);
+    font-family:'Bebas Neue', cursive; /* For more fonts, check out: https://fonts.google.com/ */
+    background-color: rgb(255, 255, 255);
+}
+
 p {
     /* Search "hex color picker" in Google to pick a color by hex value */
-    color: #4634eb;
-    font-size: 12px;
+    font-size: 19px;
+    color: black
+  
 }
+
+
+
