@@ -26,16 +26,15 @@ h3 {
 
 img {
     float: right;
-    #borderimg {
+    #border{
         border-image-source: url(border.png);
         border-image-width: 10px;
         
       }
 }
-body {
-    border: ;
+
 }
-div {border-color: coral;}
+
 
 #hii{
     width: 90px

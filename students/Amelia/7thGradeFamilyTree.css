@@ -25,6 +25,22 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 400px;
+
+
 
 }
+
+a:hover {
+    background-color: magenta;
+   
+}
+
+
+
+
+
+
+
+)
 

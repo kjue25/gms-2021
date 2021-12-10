@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>Pies - Medha's Bakery</title>
+        <link rel="stylesheet" href="Style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Birthstone+Bounce&family=Covered+By+Your+Grace&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="Medha's Bakery Logo.png">
+    </head>
+    <body>
+        <div id="navbar">
+            <ul>
+                <li><a href="Medhas-Bakery.html">Home</a></li>
+                <li><a href="Cakes.html">Cakes</a></li>
+                <li><a href="Cupcakes.html">Cupcakes</a></li>
+                <li><a href="Cookies.html">Cookies</a></li>
+                <li><a href="Pies.html">Pies</a></li>
+                <li><a href="Miscellaneous.html">Miscellaneous</a></li>
+            </ul>
+        </div>
+
+    <h2>Pies</h2>
+    <p>Pies come in all different colors, shapes, tastes, and sizes, so here are some good ones to try!</p>
+    <p><a href="https://www.verybestbaking.com/libbys/recipes/libby-s-famous-pumpkin-pie/">Pumpkin Pie</a></p>
+    <img src="Pie.png" height=500/>
+    <p><a href="https://kristineskitchenblog.com/my-favorite-apple-pie/">Apple Pie</a></p>
+    <p><a href="https://www.food.com/recipe/individual-puff-pastry-apple-pies-91246">Individual Puff Pastry Apple Pies</a></p>
+    <p><a href="https://www.tasteofhome.com/recipes/tart-cherry-lattice-pie/">Cherry Lattice Pie</a></p>
+    <p><a href="https://www.dessertfortwo.com/mini-pumpkin-pies/">Mini Pumpkin Pies</a></p>
+
+
+    </body>
+</html>
+<script>
+    window.onscroll = function() {myFunction()};
+
+
+var navbar = document.getElementById("navbar");
+
+
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+if (window.pageYOffset >= sticky) {
+navbar.classList.add("sticky")
+} else {
+navbar.classList.remove("sticky");
+}
+}
+
+</script>

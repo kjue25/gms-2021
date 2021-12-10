@@ -15,7 +15,7 @@ h2 {
 p {
     /* Search "hex color picker" in Google to pick a color by hex value */
     color: black;
-    font-size: 12px;
+    font-size: 17;
 }
 
 body {
@@ -32,12 +32,4 @@ a {
 
 a:hover {
 color:peru;
-}
-
- {
-
-}
-
-p {
-    font-size: 17;
 }

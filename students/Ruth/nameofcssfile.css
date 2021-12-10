@@ -1,20 +1,21 @@
 /* This is a comment! It doesn't affect your code but can be used for descriptions */
 h1 {
-    color: rgb(140, 220, 245); 
+    color: rgb(176, 220, 233); 
     font-size: 29px;
     font-family: cursive;
 }
  
 h2 {
-    color: rgb(255, 182, 182);
+    color: rgb(250, 199, 199);
+    font-size: 29px;
     font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
-    background-color: rgb(255, 255, 255);
+
 }
  
 p {
     /* Search "hex color picker" in Google to pick a color by hex value */
-    color: #d7afe7;
-    font-size: 20px;
+    color: #e7ceff;
+    font-size: 23px;
 }
 
 img { 
@@ -25,4 +26,9 @@ img {
 
 body { 
     text-align: center;
+    background-color: floralwhite;
+}
+
+a:hover {
+    background-color: lightblue;
 }

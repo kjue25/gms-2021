@@ -1,6 +1,7 @@
 h1 {
     color: rgb(66, 14, 90);
     font-size: 50px;
+    text-align: center;
     font-family: fantasy;
 }
  
@@ -8,6 +9,7 @@ h2 {
     color: rgba(69, 42, 80, 0.904);
     font-family: fantasy; /* For more fonts, check out: https://fonts.google.com/ */
     background-color: rgb(255, 255, 255);
+    text-align: center;
 }
  
 p {
@@ -23,3 +25,7 @@ img {
     border-color: #000000;
     margin: 0.5px
 }
+
+a:hover {
+    color: rgb(70, 159, 219);
+  }

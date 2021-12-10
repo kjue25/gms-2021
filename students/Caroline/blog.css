@@ -5,9 +5,9 @@ p {
 
 h1 { 
 color: mistyrose;
-font-size: 60px;
-margin-left: 492px;
-margin-right: 492px;
+font-size: 40px;
+margin-left: 450px;
+margin-right: 510px;
 font-family: cursive;
 border: mistyrose;
 border-style: solid; 
@@ -27,7 +27,7 @@ font-size: larger;
 }
 
 img {
-margin: 25px;
+margin: 15px;
 }
 
 body { background-color: rosybrown

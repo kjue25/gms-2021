@@ -14,22 +14,22 @@ p {
 
 
 a {
-    color: #b48de3;
-    text decoration: italic;
+    color: #897aa3;
+    text-decoration: italic;
 }
 
 body {
-    background-color: #e3ddeb;
-    font-family: Georgia;
+    background-color: #d5c7ed;
+    font-family: Segoe;
     text-align: center;
 }
 
 img {
     border-style: solid;
-    border-color: black;
+    border-color: #9b95a6;
+    border-radius: 3px;
 }
 
 a:hover {
     color: #7d68a3;
 }
-

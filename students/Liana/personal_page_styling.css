@@ -1,21 +1,37 @@
-h4 {
+#images {
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+  }
+  #images img {
+    vertical-align: middle;
+  }
+.centerpls {
+    text-align: center;
+}
 
+h4 {
+    font-family: "Optima", sans-serif;
     color: #AED5FF
 }
 
 h2 {
+    text-align: center;
+    font-family: "Optima", sans-serif;
     color: #AED5FF
-    text-align:center;
-    font-family:Didot;
+
 }
 
 h5{
     text-align:center;
-    font-family:Didot;
+    font-family: "Optima", sans-serif;
     color: #AED5FF
 }
 
 h3{
+    font-family: "Optima", sans-serif;
     color: #AED5FF
 }
 p{

@@ -21,7 +21,6 @@ h1 {
     text-align: center;
     font-size: 45px;
     font-family: monospace;
-    background-color: #8fff9a;
 }
 
 #hi{
@@ -71,4 +70,15 @@ a:hover{
     font-family: monospace;
 }
 
+#navbarlol li{
+    display: inline;
+    padding: 30px;
+    font-size: 25px;
+}
+
+#navbarlol{
+    padding:20px;
+    text-align: center;
+    background: #8fff9a;
+}
 /*textalign:center border width color style padding margin

@@ -1,10 +1,14 @@
 
-h1 {
+h3 {
     color: blue;
     font-size: 50px;
     font-family: sans-serif;
 }
- 
+
+hover {
+    background-color: yellow;
+}
+
 h2 {
     color: black;
     font-family: Gochi Hand;
@@ -18,4 +22,11 @@ p {
     /* Search "hex color picker" in Google to pick a color by hex value */
     color: #000000
     font-size 12px;
+}
+a:hover {
+font: yellow;
+}
+
+a:hover {
+  background-color: rgba(0, 255, 255, 0.699);  
 }

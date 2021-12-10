@@ -1,10 +1,28 @@
 /* This is a comment! It doesn't affect your code but can be used for descriptions */
-h1 {
-    text-align: center;
-    color: paleturquoise;
-    font-size: 50px;
-    font-family: 'Quicksand', sans-serif;
+
+#blue{
+    background-image: url("Screen\ Shot\ 2021-12-02\ at\ 9.10.13\ AM.png");
+    height: 250px;
+
 }
+
+#navbar2 li {
+    display: inline-block;
+    color:black;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+   
+}
+#navbar2 a {
+    color:black;
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: underline;
+}
+
+    
+
  
 h2 {
     color: rgb(0, 0, 0);
@@ -52,9 +70,6 @@ color: blue;
 }
 
 
-li {
-    text-align: left;
-}
 
 img {
 border-width: 10px;
@@ -71,4 +86,11 @@ b {
 h4{
     font-family: 'Quicksand', sans-serif;
     font-size: 25px;
+}
+
+h1{
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 45px;
+    padding-top: 15px;
 }

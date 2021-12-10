@@ -1,4 +1,6 @@
 /* This is a comment! It doesn't affect your code but can be used for descriptions */
+
+
 h1 {
     color:rgb(41, 36, 36);
     font-size: 30px;
@@ -16,7 +18,7 @@ p {
     font-size: 15px;
 }
 body {
-    background-color:lightpink;
+    background-color:lightyellow;
 }
 a {
     color:inherit;
@@ -25,7 +27,7 @@ a {
 
 a:hover {
     color: turquoise;
-    text decoration: none;
+    text-decoration: none;
 }
 
 body {

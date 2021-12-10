@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>Cakes - Medha's Bakery</title>
+        <link rel="stylesheet" href="Style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Birthstone+Bounce&family=Covered+By+Your+Grace&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="Medha's Bakery Logo.png">
+    </head>
+    <body>
+        <div id="navbar">
+            <ul>
+                <li><a href="Medhas-Bakery.html">Home</a></li>
+                <li><a href="Cakes.html">Cakes</a></li>
+                <li><a href="Cupcakes.html">Cupcakes</a></li>
+                <li><a href="Cookies.html">Cookies</a></li>
+                <li><a href="Pies.html">Pies</a></li>
+                <li><a href="Miscellaneous.html">Miscellaneous</a></li>
+            </ul>
+        </div>
+
+        <h2>Cakes</h2>
+        <p>Here are some of my favorite, most-baked cake recipes! I love these because they're so easy to make and have turned out really well for me!</p>
+        <p><a href="https://sugarspunrun.com/best-cheesecake-recipe/">Cheesecake</a></p>
+        <img src="Cheesecake.png" height=500/>
+        <p><a href="https://www.lifeloveandsugar.com/best-oreo-cheesecake/">Oreo Cheesecake</a></p>
+        <p><a href="https://www.myfoodandfamily.com/recipe/116062/cookies-and-ice-cream-cheesecake">Cookies and Ice Cream Cheesecake</a></p>
+        <p><a href="https://blog.williams-sonoma.com/vanilla-ombre-layer-cake/">Vanilla Ombre Layer Cake</a></p>
+        <p><a href="https://natashaskitchen.com/red-velvet-cake-recipe/">Red Velvet Cake</a></p>
+
+    </body>
+</html>
+<script>
+    window.onscroll = function() {myFunction()};
+
+
+var navbar = document.getElementById("navbar");
+
+
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+if (window.pageYOffset >= sticky) {
+navbar.classList.add("sticky")
+} else {
+navbar.classList.remove("sticky");
+}
+}
+
+</script>

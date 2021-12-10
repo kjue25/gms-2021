@@ -22,7 +22,7 @@ body {
   }
   body {
       text-align: center;
-      margin:300;
+      margin:150;
   }
   body {
       border-style: groove;
@@ -31,4 +31,17 @@ body {
   }
   a:hover {
     background-color: hsl(345, 100%, 83%);
+    font-size: 20;
+    
+    
+  }
+
+  img:hover{
+      transform:scale(1.05);
+      
+
+  }
+  
+  img{
+    border-radius: 10px;
   }

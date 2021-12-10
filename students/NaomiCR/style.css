@@ -28,3 +28,8 @@ p {
 img{
     margin: 65px;
 }
+
+:hover {
+
+    color: rgb(223, 16, 16)
+}

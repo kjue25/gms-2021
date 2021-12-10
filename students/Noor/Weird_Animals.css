@@ -55,3 +55,17 @@ border-color: green ;
 padding: 6px ;
 
 }
+
+
+#navbar li {  
+  display: inline-block;
+  border-style:radius;
+  color: rgb(52, 97, 10);
+  padding: 5px;
+}
+
+#navbar {
+  font-size: 5px;
+  text-align:left;
+}
+

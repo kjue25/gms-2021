@@ -8,7 +8,7 @@ text-align: center;
 }
  
 h2 {
-    color: rgb(6, 107, 28);
+    color: rgb(185, 4, 4);
 font-family: 'Franklin Gothic Medium'; /* For more fonts, check out: https://fonts.google.com/ */
     background-color: black;
 font-size: xx-large;
@@ -31,13 +31,6 @@ h4 {
 font-family: fantasy;
 }
 
-
-a {
-font-family:'Franklin Gothic Medium' ;
-font-size: large;
-color: black;
-}
-
  a:hover {
 color:green;
  }
@@ -45,6 +38,10 @@ color:green;
  h6 {
      font-size: medium;
  }
-
+ #navbar {
+     text-align: center;
+ font-family:'Franklin Gothic Medium' ;
+font-size: large;
+color: black;}
  
  

@@ -1,20 +1,49 @@
 body {
   text-align: center;
-  background-color: #131417;
-  Font-family: fantasy;
+  background-color: black;
+  Font-family: gluten;
   height: 675px;
   border-bottom: 15px;
   border-top: 15px;
 }
  
+ul {
+  white-space: nowrap;  
+}
+
+ul, li {
+    list-style: none;
+    display: inline;
+}
+
+#text {
+    display: inline-block;
+}
+
 h3 {
     Color: white;
-    margin-left: 30px;
     text-align: left;
     font-size: 25px;
     text-decoration: none;
     margin-left: 30px;
 }
+
+a:link {
+    color: teal;
+}
+
+a:visited {
+    color: darkturquoise;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+a:active {
+    color: #ffede9 ;
+}
+
 
 h1 {
     Color: white;
@@ -24,6 +53,7 @@ img {
     width: 150px;
     height: 150px;
     text-align: center;
+    padding: 20px;
 
 }     
 h2 {
@@ -60,16 +90,25 @@ h4{
 }
 p { 
     color: #879296;
-font-size: 20px;
-Font-family: fantasy;
-margin-bottom: 50;
+    font-size: 20px;
+    Font-family: fantasy;
+    margin-bottom: 50;
 }
+
 h6 {
     color: #879296;
     font-size: 20px;
     Font-family: fantasy;
     margin-left: 400px;
-    margin-right: 650px;
+    margin-right: 400px;
     margin-bottom: 50px;
     text-align:left
+}
+#navbar {
+    Color: white;
+    margin-left: 30px;
+    text-align: left;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 30px;   
 }

@@ -1,23 +1,21 @@
 /* This is a comment! It doesn't affect your code but can be used for descriptions */
 h1 {
     color: rgb(0, 195, 255);
-    font-size: 50px;
-    font-family:cursive;
+    font-size: 18mm;
+    font-family:'Birthstone Bounce';
     text-align: center
 }
  
 h2 {
-    color: white;
-    font-family:cursive; /* For more fonts, check out: https://fonts.google.com/ */
-    background-color: white;
+    color: rgb(0, 195, 255);
+    font-family: 'Covered By Your Grace', fantasy; /* For more fonts, check out: https://fonts.google.com/ */
+    font-size:33px;
 }
  
 p {
-    /* Search "hex color picker" in Google to pick a color by hex value */
-    color: #3a6f7c;
-    font-size: 18px;
-    font-family:fantasy;
-}
+    font-family: 'Nanum Pen Script', fantasy;
+    font-size: 8mm;
+    }
 
 h6 {
     color:rgb(223, 177, 233);
@@ -32,10 +30,40 @@ img {
   width: 50%;
 }
 
-a:hover {
-    color:rgb(204, 175, 223)
-}
-
 body {
     background-color: rgb(189, 235, 241)
+}
+
+#navbar li{
+    display: inline;
+    padding:15px;
+    font-size: large;
+}
+
+#navbar{
+    padding:20px;
+    background-image: url('Blue\ Bg\ w:\ Hearts.png');
+   overflow: hidden;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    }
+    
+    .content {
+    padding: 16px;
+    }
+    
+    .sticky + .content {
+    padding-top: 60px;
+    }
+
+a:hover {
+    color: rgb(224, 197, 235);
+}
+
+a {
+    color: rgb(58, 133, 231);
 }

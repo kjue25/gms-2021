@@ -37,5 +37,18 @@ p {
     font-size: 17px;
 }
 
-body { background-color: rgba(243, 243, 243, 0.938)
+body { 
+    background-color: rgba(243, 243, 243, 0.938)
 }
+
+#navbar li {   
+    display: inline-block;
+}
+
+#navbar {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: rgb(233, 233, 233);
+}
+

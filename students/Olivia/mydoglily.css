@@ -36,6 +36,21 @@ img {
 }
 
 a:hover{
-    color: #c6f202; 
+    color:#6e0085; 
 
+}
+
+a {
+    font-family:cursive; 
+    color:plum;
+}
+
+#navbar{ 
+    border-style: solid; 
+    border-width:3px; 
+    background-color:#f2d9ff;
+    text-align: center;
+    border-color:black;
+    font-family: cursive;
+    border-radius: 3px; 
 }

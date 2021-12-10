@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>Miscellaneous - Medha's Bakery</title>
+        <link rel="stylesheet" href="Style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Birthstone+Bounce&family=Covered+By+Your+Grace&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="Medha's Bakery Logo.png">
+    </head>
+    <body>
+        <div id="navbar">
+            <ul>
+                <li><a href="Medhas-Bakery.html">Home</a></li>
+                <li><a href="Cakes.html">Cakes</a></li>
+                <li><a href="Cupcakes.html">Cupcakes</a></li>
+                <li><a href="Cookies.html">Cookies</a></li>
+                <li><a href="Pies.html">Pies</a></li>
+                <li><a href="Miscellaneous.html">Miscellaneous</a></li>
+            </ul>
+        </div>
+
+        <h2>Miscellaneous</h2>
+        <p>Here is the miscellaneous section! It's basically just a few recipies that I couldn't really categorize.</p>
+        <p><a href="https://www.sweetandsavorybyshinee.com/french-macarons/">Macarons</a></p>
+        <img src="Miscellaneous.png" height=450/>
+        <p><a href="https://www.piesandtacos.com/raspberry-macarons/">Raspberry Macarons</a></p>
+        <p><a href="https://www.aimadeitforyou.com/homemade-doughnuts/">Doughnuts</a></p>
+        <p><a href="https://life-in-the-lofthouse.com/lemon-loaf-cake/">Lemon Loaf</a></p>
+        <p><a href="https://sallysbakingaddiction.com/pineapple-upside-cake/">Pineapple Upside-Down Cake</a></p>
+
+
+    </body>
+</html>
+<script>
+    window.onscroll = function() {myFunction()};
+
+
+var navbar = document.getElementById("navbar");
+
+
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+if (window.pageYOffset >= sticky) {
+navbar.classList.add("sticky")
+} else {
+navbar.classList.remove("sticky");
+}
+}
+
+</script>

@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>Cupcakes - Medha's Bakery</title>
+        <link rel="stylesheet" href="Style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Birthstone+Bounce&family=Covered+By+Your+Grace&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="Medha's Bakery Logo.png">
+    </head>
+    <body>
+        <div id="navbar">
+            <ul>
+                <li><a href="Medhas-Bakery.html">Home</a></li>
+                <li><a href="Cakes.html">Cakes</a></li>
+                <li><a href="Cupcakes.html">Cupcakes</a></li>
+                <li><a href="Cookies.html">Cookies</a></li>
+                <li><a href="Pies.html">Pies</a></li>
+                <li><a href="Miscellaneous.html">Miscellaneous</a></li>
+            </ul>
+        </div>
+
+        <h2>Cupcakes</h2>
+    <p>Out of all the categories, cupcakes are probably my go-to ones! Below are my frequently baked and loved ones.</p>
+    <p><a href="https://www.thepioneerwoman.com/food-cooking/recipes/a36099859/cookies-n-creme-cupcakes/">Cookies and Cream Cupcakes</a></p>
+    <img src="Cupcake.png" height=500/>
+    <p><a href="https://thedomesticrebel.com/2020/05/06/the-best-rainbow-cupcakes/">Rainbow Cupcakes</a></p>
+    <p><a href="https://www.deliciouseveryday.com/milk-cookies-cupcakes/">Milk + Cookies Cupcakes</a></p>
+    <p><a href="https://juliescafebakery.com/amazing-blue-velvet-cupcakes/">Blue Velvet Cupcakes</a></p>
+    <p><a href="https://www.biggerbolderbaking.com/red-velvet-cupcakes/">Red Velvet Cupcakes</a></p>
+
+
+    </body>
+</html>
+<script>
+    window.onscroll = function() {myFunction()};
+
+
+var navbar = document.getElementById("navbar");
+
+
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+if (window.pageYOffset >= sticky) {
+navbar.classList.add("sticky")
+} else {
+navbar.classList.remove("sticky");
+}
+}
+
+</script>

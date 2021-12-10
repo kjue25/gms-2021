@@ -21,9 +21,19 @@ h6 {
  
 body {
     /* Search "hex color picker" in Google to pick a color by hex value */
-    color: black;
+    color:black;
     font-size: 25px;
 }
+
+h4{
+    color: black;
+}
+
+#navbar li{
+    display: inline;
+    padding:15px;
+    font-size: large;
+    }
 
 
 
@@ -50,6 +60,29 @@ img {
 }
 
 body {
+    background-color: light pink;
+}
+
+#chocoh {
+    text-align: center;
+}
+
+h1 {
+    border-style: dotted;
+    border-color: plum;
+}
+
+h3 {
+    border-style: dotted;
+    border-color: plum;
+}
+
+h4 {
+    text-align: center;
+}
+
+#navbar {
     background-color: lightblue;
-
-
+    border-style: solid;
+    border-width: 2px;
+}

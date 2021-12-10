@@ -23,21 +23,22 @@ body {
 }
 
 p:hover {
-    font-size: 20;
+    font-size: 19.2;
     color: #9c608a;
 }
 
 h4 {
     color: #522143;
+    font size: 16
 }
 
 h4:hover {
     color: #9c608a;
-    font-size: 17
+    font-size: 16.2
 }
 
 img:hover {
-    width:370;
+    width:355;
 }
 
 body {
@@ -58,3 +59,13 @@ img {
     border-width: 23px;
     border-color: #e0c1ce;
 }
+
+a {
+    color: #522143;
+}
+
+a:hover {
+    color: #9c608a;
+}
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/toons/too-12/too1137.cur), auto !important;} /* End https://www.cursors-4u.com */

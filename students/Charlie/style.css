@@ -17,10 +17,27 @@ body {
     border-color: rgb(255, 255, 255);
     border-width: 12px;
 }
+
+
  
 p {
     /* Search "hex color picker" in Google to pick a color by hex value */
     color: #ffffff;
     font-size: 30px;
 }
+#navbar {
+
+    background-image: "Headerimg.png";
+    }
+    
+    
+    
+    #navbar li {  
+        display: inline-block;
+        border-style:radius;
+       color: rgb(52, 97, 10);
+
+       
+
+    
 

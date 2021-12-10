@@ -33,7 +33,7 @@ img {
 
 h2 {
     color: #f76565;
-    font:'Montserrat', sans-serif
+    font:'Montserrat', sans-serif;
 }
 
 h4 {
@@ -57,5 +57,33 @@ a:hover{
 }
 
 #top h4{
-    background-color:#fcd303;
+    
+    text-align:left;
+    color: white;
+    font-size: 20px;
+    font:'Montserrat', sans-serif;
+}
+
+#top h4:hover{
+    color:#f76565;
+    text-decoration:underline;
+}  
+
+#top li{
+    display:inline-block;
+    text-align:left;
+}
+
+
+
+
+#top{
+background-color: #fcd303;;
+border-style: solid;
+border-width: 2px;
+border-bottom: 0.5px;
+border-top: 0.5px;
+border-right: 0.5px;
+border-left: 0.5px;
+text-align:left;
 }
