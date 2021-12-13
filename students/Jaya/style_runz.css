@@ -2,10 +2,10 @@ h1 {
     color:black;
     font-size: 100px;
     font-family:'Playfair Display', serif;
-    text-align: center 
+    text-align: center;
 }
 body {
-    background-color: palevioletred
+    background-color: palevioletred;
 }
 img {
     border-width: 20px; 

@@ -3,13 +3,13 @@ h1 {
     color: white;
     font-size: 100px;
     font-family:'Playfair Display', serif;
-    text-align: center
+    text-align: center;
 }
  
 h2 {
     color: white;
     font-family: 'Playfair Display', serif;
-    text-align: center
+    text-align: center;
 
 }
  
@@ -24,6 +24,6 @@ body {
 
 img {
     border-width: 15px; 
-    border-style: solid;
-    padding:
+    border-style: solid
+    padding;
 }

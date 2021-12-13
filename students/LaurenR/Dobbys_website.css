@@ -1,0 +1,53 @@
+h1 {
+    color:#ca87e0;
+    font-family: 'Galada', cursive; 
+}
+ 
+h3 {
+    color: darkblue;
+    font-family: 'Galada', cursive; 
+}
+ 
+p {
+    color: #7c7f91;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+
+body {
+    background-color: #fbcdbeff;
+    text-align: center;
+}
+
+img {
+    border-width: 12px;
+    border-style: ridge;
+    border-color: #c3ede8;
+}
+
+a:hover {
+    color:#baffc3;
+}
+
+#title {
+    font-size: 80px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+ul { 
+    border-width: 12px;
+    border-style: ridge;
+    border-color: #c3ede8;
+    list-style-type: none;
+    margin: 0;  
+    padding: 0;
+    width: 200px;
+    background-color:#fbcdbeff;
+    text-align: center;
+    color: #7c7f91;
+    font-family: 'Quicksand', sans-serif;
+}
+
+table {
+    text-align: center;
+}

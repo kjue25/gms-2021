@@ -1,7 +1,7 @@
 /* This is a comment! It doesn't affect your code but can be used for descriptions */
-h1 {
+H1 {
     color: black;
-    font-size: 50px;
+    font-size: 70px;
     font-family: cursive;
 }
  
@@ -9,18 +9,20 @@ h2 {
     color: black;
     font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
     background-color:  #faf5ff;
-}
+ }
  
-p {
+ h6 #Annika{
     /* Search "hex color picker" in Google to pick a color by hex value */
     color: black;
     font-size: 15px;
     font-family: cursive;
-}
- body {border-style: dotted;
+ }
+ body {
+     border-style: dotted;
     border-width: 5px;
-     border-color: black;} {background-color: #faf5ff;}
+     border-color: rgb(227, 204, 236);} 
  img { border-style: dotted;
 border-width: 5px;
- border-color: black;
-}
+ border-color: #decae4;
+ }
+
