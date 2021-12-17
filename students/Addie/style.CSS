@@ -38,3 +38,18 @@ margin-right: auto;
 body {
 background-color: indigo;
 }
+
+
+p {
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+}
+
+a{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: teal;
+}
+
+a:hover {
+    color: rgb(233, 125, 125);
+}

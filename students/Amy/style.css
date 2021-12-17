@@ -9,7 +9,7 @@ h2 {
     color: rgb(159, 199, 127);
     font-family: cursive; /* For more fonts, check out: https://fonts.google.com/ */
     background-color: rgb(255, 255, 255);
-    font;font-family:Oswald;
+    font-family:Oswald;
     text-align: center;
 }
 h3 {
@@ -17,7 +17,9 @@ h3 {
 
 }
 
-
+a:hover{ 
+  color: rgb(159, 199, 127);
+  }
 p {
     /* Search "hex color picker" in Google to pick a color by hex value */
     color: #000000;
@@ -54,7 +56,7 @@ img  {
     vertical-align: middle;
     width: 88%;
 
-    
+    }
 
   
   

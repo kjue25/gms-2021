@@ -30,7 +30,7 @@ h3{
     border-color:black;
     margin:30px; 
     padding: 25px;
-    
+    background-color: moccasin;
 }
 
 a{
@@ -38,4 +38,8 @@ a{
 }
 a:hover {
     color:white;
+}
+
+.lightpink {
+    background-color: lightpink;
 }
