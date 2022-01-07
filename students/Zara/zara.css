@@ -1,14 +1,27 @@
 
 h1 { font-size: 39px;
+color: #189AB4;
 }
 h2 { font-size: 32px;
+color: #189AB4;
 }
 p { 
-    color: black;
+    color: #05445E;
     font-size: 26px;
 }
 
-a:hover { color:  rgb(6, 124, 114)}
-img { border: color:rgb(6, 124, 114)}
+a:hover { color: white }
+img { 
+border-style: solid;
+border-color: black;
+border-width: 2px
+}
 div { font-size: 27px;
+}
+body {
+background-color: #75E6DA;
+
+}
+a { 
+color: #05445E; 
 }

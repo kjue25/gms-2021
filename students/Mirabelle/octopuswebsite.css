@@ -1,24 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&display=swap');
 body {
 
     text-align: center; 
 color: black;
 border-style: dashed;
 font-family: 'Andada Pro', serif;
-background-color: red; /* For browsers that do not support gradients */
-background-image: linear-gradient(to bottom right, blue, purple);
+background-image: linear-gradient(to right, #28b5b8, #19a666, #1584bf);
 
 }
 h1 { 
     font-family: 'Andada Pro', serif;
 color: black;
 }
+#navbar {
+  background-color: #28b5b8;
+ border-style: solid;
+ border-width: 2px;
+ border-color: #19a666;
+ font-family: 'Karla', sans-serif;
+ font-size: 20px;
+ text-align: center;
+ }
+
+ h5 {
+  font-family: 'Andada Pro', serif;
+  color: black;
+
+ }
 
 
-{
-  background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom right, blue, purple);
-}
-  
+
 
 
 
